@@ -1,0 +1,15 @@
+{
+    "name": "thriee/sdk-layout",
+    "description": "sdk-layout",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Thriee\\SdkLayout\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "pimple/pimple": "^3.2"
+    }
+}
